@@ -3,4 +3,4 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Бизнес показатели](biznes_pokaz(1).ipynb) | Изучение отрицательного показателя дохода при проведении активной рекламной компании | import pandas as pd, import numpy as np, from datetime import datetime, timedelta, from matplotlib import pyplot as plt |                                                                                  
+| [Бизнес показатели](biznes_pokaz(1).ipynb) | Изучение отрицательного показателя дохода при проведении активной рекламной компании | import pandas as pd, import numpy as np, from datetime import datetime, timedelta, from matplotlib import pyplot as plt |                                                             | [Продажи комп. игр](                    
